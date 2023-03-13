@@ -5,7 +5,8 @@ This repository has been built on a Windows Operating System and has not been te
 
 | Section | Topic | Notebook name |
 | :-----: | :---: | :---: |
-| Intro | Iterating | iteration.ipynb   |
+| Intro | Iterating | iteration.ipynb |
+| Intro | Dictionaries | dictionaries.ipynb |
 
 ## 1. Setup
 
