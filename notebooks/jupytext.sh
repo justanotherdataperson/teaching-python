@@ -9,7 +9,9 @@
 # ./notebooks/jupytext.sh
 
 notebooks=(
+    dictionaries
     iteration
+    lists
 )
 
 
