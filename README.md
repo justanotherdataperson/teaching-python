@@ -10,6 +10,7 @@ This repository has been built on a Windows Operating System and has not been te
 | Intro | Lists | lists.ipynb |
 | Intro | Object Oriented Programming | oop.ipynb |
 | Engineering | Scikit-learn pipelines | sklearn_pipelines.ipynb |
+| Arrays | Masks | arrays.ipynb |
 
 ## 1. Setup
 

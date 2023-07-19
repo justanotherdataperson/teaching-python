@@ -32,8 +32,10 @@ executing==1.2.0
     # via stack-data
 fastjsonschema==2.16.3
     # via nbformat
-filelock==3.9.0
-    # via virtualenv
+filelock==3.12.2
+    # via
+    #   -c requirements.txt
+    #   virtualenv
 identify==2.5.18
     # via pre-commit
 iniconfig==2.0.0
