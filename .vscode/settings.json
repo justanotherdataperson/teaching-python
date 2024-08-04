@@ -15,8 +15,8 @@
     // Ruff linting
     "[python]": {
         "editor.codeActionsOnSave": {
-            "source.fixAll": true,
-            "organizeImports": true,
+            "source.fixAll": "explicit",
+            "organizeImports": "explicit"
         },
     },
     // Unit testing
