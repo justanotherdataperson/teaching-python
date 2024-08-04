@@ -9,10 +9,13 @@
 # ./notebooks/jupytext.sh
 
 notebooks=(
+    arrays
     dictionaries
     iteration
+    linear_regression
     lists
     oop
+    sklearn_pipelines
 )
 
 

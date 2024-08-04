@@ -75,8 +75,9 @@ nest-asyncio==1.5.6
     # via ipykernel
 nodeenv==1.7.0
     # via pre-commit
-packaging==23.0
+packaging==24.1
     # via
+    #   -c requirements.txt
     #   ipykernel
     #   pytest
 parso==0.8.3
@@ -122,6 +123,7 @@ ruff==0.0.253
 six==1.16.0
     # via
     #   -c requirements.txt
+    #   asttokens
     #   python-dateutil
 stack-data==0.6.2
     # via ipython
